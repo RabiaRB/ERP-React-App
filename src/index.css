@@ -1,0 +1,24 @@
+:root {
+    --dark-color: #2B2D42;
+    --light-color: #F4F5F7;
+    --grey-color: #A6ACB2;
+    --green-color: #00AB67;
+    --red-color: #F55454;
+
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
